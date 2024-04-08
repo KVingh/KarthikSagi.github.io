@@ -1,9 +1,9 @@
-# Portfolio Website
+#Portfolio Website
 
-## Description
+##Description
 This is my personal portfolio website where I showcase my projects, skills, and provide information about myself.
 
-## Table of Contents
+##Table of Contents
 - [Description](#description)
 - [Features](#features)
 - [Demo](#demo)
@@ -13,7 +13,7 @@ This is my personal portfolio website where I showcase my projects, skills, and 
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features
+##Features
 - **Navigation Menu**: Easy navigation through different sections of the website.
 - **Interactive Buttons**: Interactive buttons provide additional functionality or information within each section.
 - **Responsive Design**: The website is designed to be responsive, adapting to various screen sizes.
@@ -22,7 +22,7 @@ This is my personal portfolio website where I showcase my projects, skills, and 
 
 
 
-## Technologies Used
+##Technologies Used
 - HTML
 - CSS
 - JavaScript
